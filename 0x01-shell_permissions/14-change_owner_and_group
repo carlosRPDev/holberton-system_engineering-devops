@@ -1,2 +1,2 @@
 #!/bin/bash
-chpwn -R betty:holberton * 
+chpwn -R betty:holberton ./ 
