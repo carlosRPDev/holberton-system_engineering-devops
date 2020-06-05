@@ -5,7 +5,7 @@
 .SH SYNOPSIS
 holberton [STUDENTNAME]
 .SH DESCRIPTION
-Holberton School is project-based alternative to callege for the next generation of sofware engineers
+Holberton School is project-based alternative to callege for the next generation of sofware engineers.
 .SH OPTIONS
 .B holberton
 does not take any options. However, you can supply studentname.
